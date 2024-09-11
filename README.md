@@ -12,6 +12,9 @@
 
 **[Day 바로가기](https://daaay.vercel.app)**
 
+id: test@email.com   	  
+
+password: test1234
 </div>
 <br/>
 
